@@ -1,0 +1,371 @@
+var nyc_pizza_tweets =
+
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.015717, 
+          40.714917
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:16 +0000 2014", 
+        "tweet": "Date night with these two guys. #Baymax #weloveyou #details @ Regal Battery Park Stadium 11 http://t.co/ATjGSGt6WR"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.887237, 
+          40.76803
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:16 +0000 2014", 
+        "tweet": "My pleasure. I hope it made Malachi smile! \u201c@mpignone88: @jennhildreth thanks for the piece on Shaq Powell's brother - nice job!\u201d"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.977613, 
+          40.752213
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:17 +0000 2014", 
+        "tweet": "Dinner time :) (@ Pershing Square Caf\u00e9 in New York, NY) https://t.co/qCNuPN2ZyZ"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.815305, 
+          40.585493
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:18 +0000 2014", 
+        "tweet": "Where Fanannie at ?!! #twerkmasterflex\ud83d\udc45\ud83d\udca6\ud83d\udca6 @CallingShots_"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.733768, 
+          40.735157
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:18 +0000 2014", 
+        "tweet": "I HAVEN'T OOVOOED THEM SINCE THE COLD WAR http://t.co/ggyzof4gc7"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.962616, 
+          40.779058
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:21 +0000 2014", 
+        "tweet": "The Metropolitan Museum #NY @ The Metropolitan Museum of Art, New York http://t.co/pzWwFSPa3U"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.980085, 
+          40.762921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:23 +0000 2014", 
+        "tweet": "The Sho 'Nuff posse reunited with Ernie! One big happy family. #thelastdragon #thelastdragon30th\u2026 http://t.co/DhHc3UrqRf"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.980085, 
+          40.762921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:23 +0000 2014", 
+        "tweet": "The Sho 'Nuff posse reunited with Ernie! One big happy family. #thelastdragon #thelastdragon30th\u2026 http://t.co/DhHc3UrqRf"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.11578, 
+          40.865087
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:24 +0000 2014", 
+        "tweet": "I #vote5sos for @mtv Artist On The Rise! Watch #MTVEMA in the US on Nov 9 at 7/6c to see who wins! http://t.co/tiyVi4Ielc \ud83d\udc62"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.11578, 
+          40.865087
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:24 +0000 2014", 
+        "tweet": "I #vote5sos for @mtv Artist On The Rise! Watch #MTVEMA in the US on Nov 9 at 7/6c to see who wins! http://t.co/tiyVi4Ielc \ud83d\udc62"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.954649, 
+          40.817675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:30 +0000 2014", 
+        "tweet": "#Paulino seria buen primer bate,si el tipo no batea con gente en base."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.000544, 
+          40.729883
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:32 +0000 2014", 
+        "tweet": "\ud83c\udf55\ud83c\udf55\ud83c\udf55 (@ Artichoke Basille's Pizza &amp; Brewery in New York, NY) https://t.co/c1tj1TPcJW"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.2053, 
+          40.7672
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:33 +0000 2014", 
+        "tweet": "Life Celebration for Mama Cole with my 2nd Family (Peep my Native) #Family #Celebration #Jersey\u2026 http://t.co/6amWlmlVa7"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.2053, 
+          40.7672
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:33 +0000 2014", 
+        "tweet": "Life Celebration for Mama Cole with my 2nd Family (Peep my Native) #Family #Celebration #Jersey\u2026 http://t.co/6amWlmlVa7"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.96424, 
+          40.806319
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:33 +0000 2014", 
+        "tweet": "@simmonsclass @SaidKristyn literally been working all day. 45-0? Seriously?"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.941179, 
+          40.70388
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:34 +0000 2014", 
+        "tweet": "That was off-sides."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.981934, 
+          40.767997
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:35 +0000 2014", 
+        "tweet": "Maybe I'll meet you under these trees again? #maybe #wish #lights #trees #night #newyorkcity #citylife\u2026 http://t.co/vjbe2aaDwq"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.077215, 
+          40.629851
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:36 +0000 2014", 
+        "tweet": "Art By Ravelo! #artbyravelo @ SI Artist Building SIABC http://t.co/akabk1U3fv"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.122564, 
+          40.79601
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:36 +0000 2014", 
+        "tweet": "loved my makeup last night \ud83d\udc8b http://t.co/hNrLqKSkhd"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.009561, 
+          40.834017
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:38 +0000 2014", 
+        "tweet": "@omarrahmed @acnestudios oc?"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.110293, 
+          40.895967
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:38 +0000 2014", 
+        "tweet": "@hellajen oh my god what a throwback"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.115836, 
+          40.865077
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:40 +0000 2014", 
+        "tweet": "I #vote5sos for @mtv Artist On The Rise! Watch #MTVEMA in the US on Nov 9 at 7/6c to see who wins! http://t.co/tiyVi4Ielc \ud83d\udc55"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.133342, 
+          40.553306
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:42 +0000 2014", 
+        "tweet": "I've never felt this much pain"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.133342, 
+          40.553306
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:42 +0000 2014", 
+        "tweet": "I've never felt this much pain"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.910124, 
+          40.696841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:44 +0000 2014", 
+        "tweet": "I REALLY WANT @5SOS TO WIN AND MAKE THEM PROUD SO RT OR ELSE MICHAEL WILL KICK YOUR DOG!!! http://t.co/hN8rfApCbO"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.216287, 
+          40.710683
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 01:53:44 +0000 2014", 
+        "tweet": "Its cold ashell"
+      }
+    }
+  ]
+}

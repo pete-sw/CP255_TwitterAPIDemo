@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.0, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sat Nov 08 05:31:20 +0000 2014", 
+        "tweet": "I am on the Kafkaesque nightmare known as the 49 #muni"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.42772793, 
+          37.75168998
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sat Nov 08 05:11:01 +0000 2014", 
+        "tweet": "Just watched the #muni driver leave the train to grab a coffee with passengers still on the train! WTF! http://t.co/Le0B7KlSQr"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.0, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Fri Nov 07 17:29:02 +0000 2014", 
+        "tweet": "Had a great ride on #Muni this morning. The \"T\" driver was fun and funny. The audience was hot. He had everyone smiling and chuckling."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.41860437, 
+          37.75314052
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Fri Nov 07 01:12:37 +0000 2014", 
+        "tweet": "Sign of #Respect found in #sanfrancisco #california ... #muni @ Mission Street http://t.co/6ZlJE0SKoe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.40776962, 
+          37.78476128
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Thu Nov 06 18:55:04 +0000 2014", 
+        "tweet": "All aboard \u263a\ufe0f #cablecar #powell-hyde #muni #whataview #sanfrancisco #california #westcoast #usa\u2026 http://t.co/c3SBuxQHT3"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.41888889, 
+          37.80194444
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Thu Nov 06 18:52:49 +0000 2014", 
+        "tweet": "Cable cars #muni #sanfrancisco #california #westcoast #usa #holidays @ Lombard Street http://t.co/exyat3Q1RB"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.42895167, 
+          37.76779166
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Thu Nov 06 02:50:01 +0000 2014", 
+        "tweet": "Some genius hopped on the J with a lit cigar and stuffed it in his pocket. #muni"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.4207014, 
+          37.76482077
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Wed Nov 05 04:45:30 +0000 2014", 
+        "tweet": "Time to take the sketchy bus to the dark place #muni"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.45072775, 
+          37.76955363
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Wed Nov 05 02:41:33 +0000 2014", 
+        "tweet": "You know, just a typical night on #muni with my #lizard // #sf never disappoints @ Haight Street http://t.co/MY5mICgo8v"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.0, 
+          0.0
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Wed Nov 05 02:03:40 +0000 2014", 
+        "tweet": "Tales from the 22 #muni! A bus-wide announcement was made informing us that Jesus is coming next year but so is fake Jesus (in the desert)."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.42838, 
+          37.7613
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Tue Nov 04 03:37:55 +0000 2014", 
+        "tweet": "Wondering why the #muni was #fucked up tonight ? Cause that silly girl who tried to take a shortcut\u2026 http://t.co/eEN28TC1Xk"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.40636818, 
+          37.78542875
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Tue Nov 04 01:22:06 +0000 2014", 
+        "tweet": "Someone @ min wage to regulate back of #SF #muni doors would result in &gt;2x city income #nobrainer @sfmta_muni @SFMuniComplaint"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.39720643, 
+          37.79346362
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Mon Nov 03 16:53:08 +0000 2014", 
+        "tweet": "@sfmta_muni sounds exiting-- but what are the dates? #muni #muniheritageweekend http://t.co/TyPsb0O7fR"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.40753864, 
+          37.78785826
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 02 20:39:30 +0000 2014", 
+        "tweet": "Me and my homie heading to the zoo #SanFran #muni @ Union Square, San Francisco http://t.co/zHl98Fz8rC"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.42665663, 
+          37.78889782
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sat Nov 01 01:01:21 +0000 2014", 
+        "tweet": "Magnum PI on #muni. @ 38BX http://t.co/V8bs845Khp"
+      }
+    }
+  ]
+}

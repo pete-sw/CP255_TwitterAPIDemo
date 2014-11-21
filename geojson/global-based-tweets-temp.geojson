@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -83.019176, 
+          40.067905
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 18:42:50 +0000 2014", 
+        "tweet": "@tatecoley5 @LILBTHEBASEDGOD http://t.co/RLClqqsaop"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -74.440983, 
+          40.559541
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 18:54:08 +0000 2014", 
+        "tweet": "2.95$ on ultimate gas? Tybg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -116.478201, 
+          33.763772
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 18:56:10 +0000 2014", 
+        "tweet": "Three day school week TYBG"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -94.577807, 
+          39.200324
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 18:57:38 +0000 2014", 
+        "tweet": "Based God still my favorite rapper @LILBTHEBASEDGOD"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.122607, 
+          37.676684
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 19:09:07 +0000 2014", 
+        "tweet": "Tybg for this late shift, I get to stay in bed"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -117.251316, 
+          32.772633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 19:32:24 +0000 2014", 
+        "tweet": "TYBG aka @DezBryant"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.287951, 
+          47.72511
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 19:35:33 +0000 2014", 
+        "tweet": "Romo saving me..#tybg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.256263, 
+          37.51017
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 19:44:47 +0000 2014", 
+        "tweet": "My mom made me a bacon quesadilla for lunch. Holly shit tybg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.092345, 
+          37.639529
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 20:07:06 +0000 2014", 
+        "tweet": "#CamoSpat #TYBG http://t.co/hnQXVOglBj"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -116.153377, 
+          34.130293
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 20:49:06 +0000 2014", 
+        "tweet": "My brother got his car fixed tybg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -118.138374, 
+          34.081793
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 20:50:03 +0000 2014", 
+        "tweet": "Tybg work let me out early today \ud83d\ude4f"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -73.604991, 
+          40.715204
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 20:52:14 +0000 2014", 
+        "tweet": "@LILBTHEBASEDGOD I love you too Lil B"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.258186, 
+          26.015924
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 21:06:52 +0000 2014", 
+        "tweet": "Off work. Tybg."
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -81.203364, 
+          28.582623
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 21:07:20 +0000 2014", 
+        "tweet": "TYBG for Detroit!"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -117.911709, 
+          33.876006
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 21:16:42 +0000 2014", 
+        "tweet": "@cjxbeast tybg\ud83d\ude4f\ud83d\ude4f"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -78.865084, 
+          35.115888
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 21:20:40 +0000 2014", 
+        "tweet": "NEW BENTLY COUPE ALL BLUE!!!!! NAH IM LYING THIS A BUICK!!!! @LILBTHEBASEDGOD http://t.co/8r7QhwZmjp"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -87.400251, 
+          39.474414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sun Nov 09 21:47:56 +0000 2014", 
+        "tweet": "\u201c@Alli_Eli: You only like nigga tits @Captain_Trilla @mooooooorah #YOLNT\u201d TYBG FOR NT's\ud83d\ude4f"
+      }
+    }
+  ]
+}

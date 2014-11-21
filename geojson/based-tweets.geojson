@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -82.49386587, 
+          27.23422961
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sat Nov 08 20:53:00 +0000 2014", 
+        "tweet": "@GirlTimeUSA @LILBTHEBASEDGOD \ud83d\udc95\ud83d\ude4f\u2728 #girltimeusa #based http://t.co/6ej5WqWngH"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.53100312, 
+          51.25590757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "timestamp": "Sat Nov 08 20:21:23 +0000 2014", 
+        "tweet": "Looking forward to another night of mayhem with #based @MaxPearce_ \ud83c\udf55\ud83c\udf78"
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<!-- Leaflet demo adapted from these sources: 
+    http://zevross.com/blog/2014/10/28/tips-for-creating-leafleft-js-maps/ 
+    http://leafletjs.com/examples/geojson.html -->
+
+<html>
+<head>
+    <title> Swigert Twitter Data- CP 255</title>
+    
+    <link rel='stylesheet' href='http://cdn.leafletjs.com/leaflet-0.7/leaflet.css' />
+    <script src='http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js'></script>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.4/mapbox.js'></script>
+    <script src='https://code.jquery.com/jquery-2.1.1.js'></script>
+
+    <script src='geojson/globalpizzatweets.js'></script>
+    <script src='geojson/globalburgertweets.js'></script>
+   
+    <style type='text/css'>
+
+    body { 
+      margin: 0; 
+      padding: 0; 
+      font-family: Helvetica, sans-serif;
+    }
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+    #overlay {
+      position: absolute;
+      top: 10px;
+      left: 80px;
+      padding: 10px;
+      background-color: rgba(255,255,255,0.9);
+      font-size: 24px;
+      font-weight: bold;
+      border-radius: 4px;
+
+    }
+    
+    </style>
+</head>
+<body>
+
+
+
+
+
+    <div id="map"></div>
+    <div id="overlay">Swigert: Global Cravings</div>
+
+
+    <style>
+        #legend{
+        position: absolute;
+        bottom: 1;
+        padding-left: 6px;
+        padding-right: 6px;
+        margin-right: 6px;
+        margin-top: 6px;
+        right: 0;
+        z-index: 1000000;
+        font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+        box-shadow: 0 1px 5px rgba(0,0,0,.65);
+        border-radius: 4px;
+        background-color: rgba(255,255,255,.9);
+        }
+    </style>
+
+    <div id="legend">
+        <p>
+          <img src="burger.png" alt="Burger" style="float:right;width:15px;height:15px">
+         Burger tweets
+        </p>
+        <p>
+          <img src="pizza.png" alt="Pizza" style="float:right;width:15px;height:15px">
+         Pizza tweets
+        </p>
+    </div>
+
+
+    <script type="text/javascript">
+    
+    //*********************************************************
+    // EDIT 'spatial.b625e395' TO CHANGE THE MAPBOX BASE LAYER
+    //*********************************************************
+
+    var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v3/aj.03e9e12d/{z}/{x}/{y}.png', {
+        attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
+    });
+
+    var map = L.map('map')
+        .addLayer(mapboxTiles)
+        .setView([0, 0], 2);
+
+        
+    //***********************************************
+    // EDIT THESE OPTIONS TO CHANGE THE MARKER STYLE
+    //***********************************************
+
+
+    var burgerIcon = L.icon({
+        iconUrl: 'burger.png',
+        iconSize: [15, 15], // size of the icon
+        iconAnchor:   [10, 10], // point of the icon which will correspond to marker's location
+    });
+
+    var pizzaIcon = L.icon({
+        iconUrl: 'pizza.png',
+        iconSize: [15, 15], // size of the icon
+        iconAnchor:   [10, 10], // point of the icon which will correspond to marker's location
+    });
+
+
+    //Let's try this with burgers
+    var burgertweets = L.geoJson(global_burger_tweets, { 
+        onEachFeature: markerSetup, 
+        pointToLayer: function (feature, latlng) {
+            return L.marker(jitter(latlng), {icon: burgerIcon}).on('mouseover', function() {
+            this.bindPopup(feature.properties.tweet).openPopup();
+        });;}
+    }); 
+  
+
+
+    function markerSetup(feature, layer) {
+        if (feature.properties && feature.properties.tweet) {
+            layer.bindPopup(feature.properties.tweet);
+        }
+    }
+    
+    function jitter(latlng) {
+        var lat = latlng.lat + (Math.random()-0.5)/500;
+        var lng = latlng.lng + (Math.random()-0.5)/500;
+        return L.latLng(lat, lng);
+    }
+
+
+    //Let's try this with pizza
+    var pizzatweets = L.geoJson(global_pizza_tweets, { 
+        onEachFeature: markerSetup, 
+        pointToLayer: function (feature, latlng) {
+           return L.marker(jitter(latlng), {icon: pizzaIcon}).on('mouseover', function() {
+            this.bindPopup(feature.properties.tweet).openPopup();
+        });;}
+    }); 
+
+
+    burgertweets.addTo(map);
+    pizzatweets.addTo(map);
+
+    map.fitBounds(pizzatweets.getBounds(), { padding: [50, 50] });
+    
+    </script>
+
+    
+
+</body>
+</html>
